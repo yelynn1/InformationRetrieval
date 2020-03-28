@@ -1,7 +1,7 @@
 # Information Retrieval
 
 ## Source Codes
-The source codes and dataset can be downloaded or cloned from the GitHub repository below:
+The source codes and dataset can be downloaded or cloned from the following GitHub repository:
 https://github.com/yelynn1/InformationRetrieval
 
 ### Description	File Name
