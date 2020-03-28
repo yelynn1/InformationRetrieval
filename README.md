@@ -19,10 +19,12 @@ Jupyter Notebook is the preferred IDE application to open the .pynb Python noteb
 ## Dataset
 The dataset can be downloaded from the following links:
 1) Actual Dataset of Individual Text Documents (already processed to remove HTML tags)  
+  
    https://entuedu-my.sharepoint.com/:u:/g/personal/mloh010_e_ntu_edu_sg/EdKbtFaGGkdCsLiOE65udRgBr11qvfKbEI0rnbJzIgspZA?e=zpzfDC  
    File Name: datafull-lean.rar  
    File Size: 178 MB  
    Expands to about 524 MB  
+     
 
 2) Pickle files to work in conjunction with the Final Time Comparison Codes.ipynb.  
    The pickle files save a backup of the postings list, docID dictionaries and time_to_index as Python objects so that there is no need    to go through the whole indexing process just to generate the inverted index.  
