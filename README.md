@@ -5,7 +5,8 @@ The source codes and dataset can be downloaded or cloned from the GitHub reposit
 https://github.com/yelynn1/InformationRetrieval
 
 ### Description	File Name
-1) Final IR Codes and Size Compression Optimization.ipynb  For all Information Retrieval Indexing and Size Compression Codes
+1) Final IR Codes and Size Compression Optimization.ipynb  
+For all Information Retrieval Indexing and Size Compression Codes
 
 2) Final Time Comparison Codes.ipynb
 
