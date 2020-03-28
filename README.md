@@ -6,12 +6,15 @@ https://github.com/yelynn1/InformationRetrieval
 
 ### Description	File Name
 1) Final IR Codes and Size Compression Optimization.ipynb 
+
    For all Information Retrieval Indexing and Size Compression Codes
 
 2) Final Time Comparison Codes.ipynb
+
    Time Comparison of Search Queries (includes codes for skip pointers optimization and short-to-long merge postings optimization)
  
 3) wikiScraper.ipynb
+
    Wikipedia Scrapper Codes
 
 Jupyter Notebook is the preferred IDE application to open the .pynb Python notebook files above as it is able to have multiple outputs displayed from each cell.
